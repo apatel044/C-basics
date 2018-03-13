@@ -1,0 +1,7 @@
+C:\Users\Anjay\source\repos\Basics\Basics\bin\Release\Basics.exe.config
+C:\Users\Anjay\source\repos\Basics\Basics\bin\Release\Basics.exe
+C:\Users\Anjay\source\repos\Basics\Basics\bin\Release\Basics.pdb
+C:\Users\Anjay\source\repos\Basics\Basics\obj\Release\Basics.csprojResolveAssemblyReference.cache
+C:\Users\Anjay\source\repos\Basics\Basics\obj\Release\Basics.csproj.CoreCompileInputs.cache
+C:\Users\Anjay\source\repos\Basics\Basics\obj\Release\Basics.exe
+C:\Users\Anjay\source\repos\Basics\Basics\obj\Release\Basics.pdb
